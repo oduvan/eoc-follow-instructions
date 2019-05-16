@@ -1,5 +1,5 @@
 
-export function follow(instructions: string): [number, number] {
+export function follow(instructions: string) {
     // your code here
     return [0, 0];
 }
